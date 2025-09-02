@@ -31,3 +31,6 @@ for i in range(n):
     rowb = "".join(str(v) for v in b[i])
     rowc = "".join(str(v) for v in c[i])
     print(f"{rowa} {rowb} {rowc}")
+
+
+print("Rishab Rocks")
