@@ -33,4 +33,3 @@ for i in range(n):
     print(f"{rowa} {rowb} {rowc}")
 
 
-print("Rishab Rocks")
